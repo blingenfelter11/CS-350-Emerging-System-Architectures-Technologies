@@ -1,7 +1,7 @@
 # CS-350-Emerging-System-Architectures-Technologies
 
-**Summarize the project and what problem it was solving.**
-  * 
+**Summarize the projects and what problems they are solving.**
+  * The 
 
 **What did you do particularly well?**
 
